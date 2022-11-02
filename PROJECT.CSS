@@ -626,6 +626,12 @@ text-align: center;
   height: 35%;
 }
 
+.ll{
+    width: 35%;
+    height: 35%;
+    
+}
+
 @media only screen and (min-device-width: 0px) and (max-device-width: 480px) {
     body{
         width: 480px;
